@@ -1,3 +1,13 @@
+# 🚀 New and Improved Version Available!
+
+This project has been upgraded to a more advanced and flexible version: **[Chess.com Stats SVG Generator](https://github.com/Prathamesh-B/chesscom-stats-svg)**. The new project offers:
+
+- **Dynamic SVG Generation**: Creates visually appealing SVG images with real-time Chess.com stats.
+- **Customizable Themes**: Choose from multiple themes (e.g., default, dark, light) to match your style.
+- **Easy Deployment**: Deploy on Vercel with a single click for personalized use.
+
+Check out the [new project](https://github.com/Prathamesh-B/chesscom-stats-svg) and try it out by adding `https://chesscom-stats-svg.vercel.app/stats?username=YourChessUsername` to your README! This older project will remain available but is no longer actively maintained.
+
 # Chess.com Stats in Readme
 
 ![image](img/example.png "Example")
